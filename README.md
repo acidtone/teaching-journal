@@ -1,6 +1,8 @@
 # Teaching Journal
 A dedicated journal for teaching programming and learning teaching fundamentals in general.
 
+[Live Site](https://acidtone.github.io/teaching-journal/)
+
 ## Inspiration
 This journal was inspired by this video: [How learning journals can help students grow](breakdowns/how-learning-journals-can-help-students-grow.md).
 
