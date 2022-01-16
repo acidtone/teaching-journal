@@ -34,7 +34,7 @@ Quantifying some objectives and criteria for a Coding Journal
 - accepted locations
     - As an entry in your dedicated `coding-journal` repo.
     - In the README of a remote repo (project, assignment, etc) under the heading "Code Journal"
-- General content categories
+- General content categories. An entry can contain a combination of the following.
     1. class notes
         - video timestamp markers for important information
         - instructor/classmate quotes
@@ -72,13 +72,15 @@ Quantifying some objectives and criteria for a Coding Journal
         - Reflection: was the objective achieved? Why or why not?
 
 ### Content breakdowns
-Not sure if this fits under a coding journal? It definitely doesn't have to be a dated entry.
+Not sure if this fits under a coding journal? It definitely doesn't have to be a dated entry. Might be better off as an assignment or achievement (cleric badge?).
 
-Breakdown/synopsis of a single article, video, podcast, etc
+A breakdown is a summary/synopsis of a single article, video, podcast, etc:
 - What are the key concepts?
 - Useful quotes
 - Sample code and snippets 
 - Video chapter markers and timestamps
 - Related and useful links
+- Examples:
+    - [How learning journals can help students grow](/breakdowns/how-learning-journals-can-help-students-grow.md)
 
 ---
