@@ -38,11 +38,10 @@ Quantifying some objectives and criteria for a Coding Journal
     1. class notes
         - video timestamp markers for important information
         - instructor/classmate quotes
+        - observations
+        - helpful/useful links pasted in the Chat
         - questions for later
         - reminders for Lab Time
-        - observations
-        - useful links
-        - research notes
         - TODOs
     2. self-assessment
         - Bring your receipts: What metrics are you basing your performance on?
@@ -67,9 +66,18 @@ Quantifying some objectives and criteria for a Coding Journal
         - Numbered steps you've taken to complete the objective
         - Observations
         - Obstacles encountered
-        - Helpful links
         - Links to starting and finishing commits
         - Reflection: was the objective achieved? Why or why not?
+    4. Attributions
+        - Have any classmates helped you?
+        - Helpful/useful links and resources
+            - Articles, videos, etc
+            - Stack Overflow answers
+            - Documentation references
+        - What sites and content creators have you found most helpful?
+    5. Research sessions
+        - What questions do you want to answer?
+        - What search terms are you using?
 
 ### Content breakdowns
 Not sure if this fits under a coding journal? It definitely doesn't have to be a dated entry. Might be better off as an assignment or achievement (cleric badge?).
