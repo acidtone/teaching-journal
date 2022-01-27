@@ -3,6 +3,10 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## Jan 26, 2022
+- Breakdowns in prep for incoming Lab Facilitators
+    - [Adult Learning Theory](https://www.youtube.com/watch?v=Uk6QFlUYrkE)
+
 ## Jan 15, 2022
 ### Keeping a learning journal (but for code)
 - Currently marking a Git assignment for starting a markdown learning journal and was inspired to create a new journal dedicated to learning how to teach.
