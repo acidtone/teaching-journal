@@ -5,8 +5,9 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ## Jan 26, 2022
 - Breakdowns in prep for incoming Lab Facilitators
+    - [What is Pedagogy? - 4 Essential Learning Theories](https://www.youtube.com/watch?v=QcpwEoW1uY8)
     - [Adult Learning Theory](https://www.youtube.com/watch?v=Uk6QFlUYrkE)
-
+    - [How to teach programming](https://www.youtube.com/watch?v=g1ib43q3uXQ) by Felienne Hermans
 ## Jan 15, 2022
 ### Keeping a learning journal (but for code)
 - Currently marking a Git assignment for starting a markdown learning journal and was inspired to create a new journal dedicated to learning how to teach.
