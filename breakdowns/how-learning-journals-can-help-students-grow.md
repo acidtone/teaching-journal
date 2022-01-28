@@ -1,4 +1,4 @@
-# How learning journals can help students grow
+# [How learning journals can help students grow](https://bigthink.com/the-present/learning-journals/)
 - Source: [Big Think](https://bigthink.com/the-present/learning-journals/)
 - Speaker: Jiang Xueqin
 
