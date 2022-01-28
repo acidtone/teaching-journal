@@ -1,6 +1,5 @@
 # [How learning journals can help students grow](https://bigthink.com/the-present/learning-journals/)
-- Source: [Big Think](https://bigthink.com/the-present/learning-journals/)
-- Speaker: Jiang Xueqin
+by Jiang Xueqin
 
 ## Summary
 The purpose of a learning journal: 
