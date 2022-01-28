@@ -17,6 +17,7 @@ by Navy Fleet and Family Readiness
         1. Identification of a dilemma or crisis
         2. Establishment of personal relevance
         3. Provide opportunities for critical thinking 
+            - [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking): the analysis of available facts, evidence, observations, and arguments to form a judgment.
 3. Experiential Learning
     - David A. Kolb - Successfulness of learning is creating meaning from experiences.
     - Four stages of successful learning
