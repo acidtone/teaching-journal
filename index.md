@@ -1,6 +1,11 @@
 # Tony's Learning Journal for Teaching Code
 A dedicated journal for teaching programming and learning teaching fundamentals in general.
 
+### Navigation
+- Home
+- [Breakdowns](breakdowns/index.md)
+- [Gists](gists/index.md)
+
 ---
 
 ## Jan 26, 2022
