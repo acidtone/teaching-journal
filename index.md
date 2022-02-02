@@ -8,6 +8,12 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## Feb 1, 2022
+- Compiled a [list of my Gists](gists/index.md) because I'm tired of searching randomly on the website. This way I have a birds-eye view of content I can throw into a lesson at the last minute (with a little refactor, update, cleanup).
+    - TODO: reorder and perhaps archive the old ones?
+
+---
+
 ## Jan 26, 2022
 - Breakdowns in prep for incoming Lab Facilitators
     - [What is Pedagogy? - 4 Essential Learning Theories](breakdowns/what-is-pedagogy.md)  
