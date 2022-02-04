@@ -8,6 +8,11 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## Feb 3, 2022
+- Re-ordered JS section of the [Gist list](gists/index.md)
+
+---
+
 ## Feb 1, 2022
 - Compiled a [list of my Gists](gists/index.md) because I'm tired of searching randomly on the website. This way I have a birds-eye view of content I can throw into a lesson at the last minute (with a little refactor, update, cleanup).
     - TODO: reorder and perhaps archive the old ones?
