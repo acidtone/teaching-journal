@@ -1,6 +1,13 @@
 # Resource Breakdowns
 Summaries of great articles and videos on education
 
+### Navigation
+- [Home](../index.md)
+- Breakdowns
+- [Gists](gists/index.md)
+
+---
+
 ## Pedagogy
 - [What is Pedagogy? - 4 Essential Learning Theories](what-is-pedagogy.md)
 - TODO: [Bruner’s 3 Steps of Learning in a Spiral Curriculum](https://www.youtube.com/watch?v=rZfAsbhfL_Y)
