@@ -8,6 +8,14 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## Feb 5, 2022
+Goal: Build a list of Achievement rubrics based on the Outcomes, not the requirements of the assessment.
+- Found these two great videos in the last week or so
+    - [How to Create Rubrics for Assignments](https://www.youtube.com/watch?v=Fr48veTtVpM)
+    - [Goals, Objectives, and Learning Outcomes](https://www.youtube.com/watch?v=g_Xm5IljYKQ)
+
+---
+
 ## Feb 3, 2022
 - Re-ordered JS section of the [Gist list](gists/index.md)
 

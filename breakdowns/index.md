@@ -8,6 +8,10 @@ Summaries of great articles and videos on education
 
 ---
 
+## Syllabus Development
+- TODO: [How to Create Rubrics for Assignments](https://www.youtube.com/watch?v=Fr48veTtVpM)
+- TODO: [Goals, Objectives, and Learning Outcomes](https://www.youtube.com/watch?v=g_Xm5IljYKQ)
+
 ## Pedagogy
 - [What is Pedagogy? - 4 Essential Learning Theories](what-is-pedagogy.md)
 - TODO: [Bruner’s 3 Steps of Learning in a Spiral Curriculum](https://www.youtube.com/watch?v=rZfAsbhfL_Y)
