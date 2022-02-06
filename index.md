@@ -10,7 +10,22 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ## Feb 1, 2022
 - Compiled a [list of my Gists](gists/index.md) because I'm tired of searching randomly on the website. This way I have a birds-eye view of content I can throw into a lesson at the last minute (with a little refactor, update, cleanup).
-    - TODO: reorder and perhaps archive the old ones?
+    - TODO: 
+        - reorder by complexity and category
+        - find sequences like the github stuff
+- R&D: Are Net Ninjas repo branches a good idea?
+
+### Rubrics
+- [How to create rubrics for assignments](https://www.youtube.com/watch?v=Fr48veTtVpM) by the U of A!
+    - [The AAC Rubric Wordsmith](https://www.aac.ab.ca/wp-content/uploads/Rubrics/BBRp18-23.pdf)
+        - Great Rubric cheat sheet but a PDF?
+    - This is very compatible with brightspace
+- This got me to thinking about formative vs summative assessments
+    - Found [this article]((https://www.gre.ac.uk/learning-teaching/assessment/assessment/design/formative-vs-summative)) with a nice font.
+- A Learning journal is definitely a formative assessment
+    - formative assessments are usually for few or no marks
+    - for coding courses, I think 20% over the span of the course is fair IF they have to code the journal and push to Git.
+
 
 ---
 
