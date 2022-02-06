@@ -8,6 +8,10 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## Feb 6, 2022
+- Wrote break down of [Goals, Objectives, and Learning Outcomes](goals-objectives-learning-outomes.md)
+
+
 ## Feb 5, 2022
 Goal: Build a list of Achievement rubrics based on the Outcomes, not the requirements of the assessment.
 - Found these two great videos in the last week or so
