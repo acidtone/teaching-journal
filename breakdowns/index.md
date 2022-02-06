@@ -10,7 +10,7 @@ Summaries of great articles and videos on education
 
 ## Syllabus Development
 - TODO: [How to Create Rubrics for Assignments](https://www.youtube.com/watch?v=Fr48veTtVpM)
-- TODO: [Goals, Objectives, and Learning Outcomes](https://www.youtube.com/watch?v=g_Xm5IljYKQ)
+- [Goals, Objectives, and Learning Outcomes](goals-objectives-learning-outomes.md)
 
 ## Pedagogy
 - [What is Pedagogy? - 4 Essential Learning Theories](what-is-pedagogy.md)
