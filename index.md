@@ -8,9 +8,19 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## Feb 20, 2022
+Goal: Research - Syntax highlighting for specific lines in blog posts, lesson plans and slides.
+- PrismJS has a [line highlighting](https://prismjs.com/plugins/line-highlight/) plugin.
+    - This probably wouldn't work with the Content module when using markdown. Probably wouldn't without some way to add data-attrs. Remark doesn't seem to want to work so maybe adding `pre` and `code` manually to the md would work?
+- RevealJS apparently has the ability to [highlight lines](https://revealjs.com/code/#line-numbers-%26-highlights) within a block and also [step-thru highlights](https://revealjs.com/code/#step-by-step-highlights).
+    - Again, not sure how this would work with the markdown plugin. Probs just add the `pre` and `code` blocks manually. Ugh. 
+
+---
+
 ## Feb 6, 2022
 - Wrote break down of [Goals, Objectives, and Learning Outcomes](goals-objectives-learning-outomes.md)
 
+---
 
 ## Feb 5, 2022
 Goal: Build a list of Achievement rubrics based on the Outcomes, not the requirements of the assessment.
