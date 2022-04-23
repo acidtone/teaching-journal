@@ -31,6 +31,8 @@ Research: Game design/development as a tool for teaching programming.
         - tdlr; start with a prototype to:
             - test your game ideas
             - generate new ideas
+        - He used Unity to create quick and buggy prototypes to test variations on a side scroller with a magnetic game character.
+
 
 ---
 
