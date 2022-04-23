@@ -8,6 +8,32 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## April 23, 2022
+Research: Game design/development as a tool for teaching programming.
+- Most of the "[game development javascript](https://www.google.com/search?q=game+development+javascript)" results for articles and videos are unsatisfying. They are either:
+    - are too advanced for JS beginners (game engines/frameworks)
+    - focus on video game-like experiences and jump straight to `canvas` (would like to start with node/cli game to start)
+    - don't talk about the fundamental mechanics and theory behind games.
+- Refining my searches to "game mechanics" helped but results were still more advanced. 
+- "[solo game mechanics](https://www.google.com/search?q=solo+game+mechanics)" produced the most promising results thus far:
+    - [10 BEST Solo Board Game MECHANICS in 2021](https://www.youtube.com/watch?v=S5VdJtj151g) (from least to best)
+        - Dice rolling
+        - Flowcharts or procedural AI
+        - Dummy Opponents (automa); playing for points
+        - Tile/Worker placement
+        - Card drafting
+        - Event deck (action queue)
+        - Grid movement
+        - Puzzle solving and hand management
+        - Deck, bag and pool building
+        - The narrative
+    - [The mistake every new game developer makes](https://www.youtube.com/watch?v=ZMbIvmv25u0)
+        - tdlr; start with a prototype to:
+            - test your game ideas
+            - generate new ideas
+
+---
+
 ## Feb 20, 2022
 Goal: Research - Syntax highlighting for specific lines in blog posts, lesson plans and slides.
 - PrismJS has a [line highlighting](https://prismjs.com/plugins/line-highlight/) plugin.
