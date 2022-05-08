@@ -8,6 +8,61 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## May 8, 2022
+**Assumption**: A beginner will need a more convergent learning path until they can use their imagination.
+
+**Theory**: Providing a list of recommended starter projects will aid in learning.
+
+**Questions**:
+- How do we measure project effectiveness in learning?
+- Are projects the best format for early learning?
+- Does this apply equally to children vs ya vs adults?
+- How small should the projects be?
+- When do you introduce fat arrow? Function statements or expressions?
+    - Refactoring exercises: 
+        - Finished code is given with `function` expressions. Goal: refactor using arrows.
+
+## Goal
+Create sample projects geared toward board games. Projects that:
+- can highlight a core learning topic
+    - dice 
+        - `number`
+        - `array`
+        - `Math` object
+- is visual and can naturally introduce design elements
+    - dice
+        - html entities
+        - font icons
+        - svg
+        - animation
+- could make sense as a component in a larger project
+    - dice roller: digital dice tower
+        - separation of concerns
+
+## Project examples
+- dice 
+    - roller
+    - builder
+    - games/components/apps
+        - iphone substitute if you forgot your dice
+        - 
+- deck
+    - shuffler
+    - builder
+    - games/components/apps
+        - memory game
+        - war
+        - discards
+        - a card you stick on your head, game
+- counter
+    - health
+    - inventory
+    - wallet
+- backpack
+    - items!
+
+---
+
 ## April 23, 2022
 Research: Game design/development as a tool for teaching programming.
 - Most of the "[game development javascript](https://www.google.com/search?q=game+development+javascript)" results for articles and videos are unsatisfying. They are either:
