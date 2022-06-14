@@ -8,6 +8,43 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## June 12, 2022
+### Mac Mini Setup for Streaming
+**Streaming software**
+- [OBS](https://obsproject.com/) or [Streamlabs](https://streamlabs.com/)?
+- [Loopback](https://rogueamoeba.com/loopback/) or [SWB Audio App](https://shinywhitebox.com/swb-audio-app)?
+- [Zoom](https://zoom.us/)
+
+**Coding Software**
+- VS Code
+    - Live Server
+    - GistPad
+    - Open in Default Browser
+    - GitLens
+    - Code Spell Checker
+- iTerm
+- Oh My ZSH!
+- Homebrew
+- nvm
+- Git
+- Browsers
+    - Firefox
+    - Chrome
+- Postman
+
+**Messaging**
+- Slack
+- Discord
+- Teams
+
+**Quality of Life**
+- Rectangle
+- Lastpass
+    - Firefox Extension
+    - Chrome Extension
+
+---
+
 ## May 8, 2022
 **Assumption**: A beginner will need a more convergent learning path until they can use their imagination.
 
