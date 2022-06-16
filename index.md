@@ -8,6 +8,62 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## June 15, 2022
+Install log:
+1. Firefox
+    - Lastpass extension
+2. Zoom
+3. Focusrite Control (Scarlett 2i2)
+4. LogiTune (Brio camera)
+    - Might not be the best option? Alternative could be G Hub.
+    - Tried G Hub but it doesn't offer any more settings.
+5. Stream Deck software
+6. Wacom Desktop Center
+
+**Question**: Is the current version of OBS (27.2.4) still running in Rosetta?
+- According to [this video](https://www.youtube.com/watch?v=Z1XX7I4ygqk) you can tell the difference between ARM64 and Intel using the Activity Monitor
+- OBS (27.2.4)
+    - **Does NOT** run natively on ARM64. There's an experimental ARM64 build based on 27.2.0.
+    - it doesn't look like the Stream Deck OBS plugin will work with the ARM64 build.
+- Streamlabs (1.9.1): 
+    - **Does NOT** run natively on ARM64. No sign of future support so far.
+- Twitch Studio (0.108.12):
+    - **DOES** run natively on ARM64! It's still in beta and I have no idea how it compares. 
+- Side note: The InceptionU network does 475Mbps up and down!
+
+---
+
+## June 14, 2022
+### M1 Mac Mini Setup!
+Physical setup and peripherals:
+- Dell display: 1920 x 1200
+- BenQ display: 1440 x 2560 (portrait)
+- Logitech Brio webcam
+- Elgato Stream Deck
+- Focusrite Scarlett 2i2
+- Wacom Intuos tablet (7.9" x 6.3")
+
+### Streaming Research
+Some questions that need to be answered for the Twitch Stream
+- [OBS](https://obsproject.com/) or [Streamlabs](https://streamlabs.com/)? [Twitch Studio](https://www.twitch.tv/broadcast/studio)?
+    - What settings?
+    - How to properly set up Profiles and Scene Collections
+- [Loopback](https://rogueamoeba.com/loopback/) or [SWB Audio App](https://shinywhitebox.com/swb-audio-app)?
+
+**Findings**
+- [Profiles & Scene Collections](https://www.youtube.com/watch?v=LIFaXZkk_-Q) (6:24) by EposVox
+    - Great summary of the two features.
+    - Seems like good content: [his OBS Masterclass Playlist](https://www.youtube.com/playlist?list=PLzo7l8HTJNK-IKzM_zDicTd2u20Ab2pAl)
+- [How to Stream on Twitch OBS Studio Tutorial on M1 Max Macbook](https://www.youtube.com/watch?v=PMT2WEL5-gw) (10:36) by Blendlogic Tech
+    - Pretty concise
+    - His goals are to stream and record 1080p @ 60fps
+    - Uses Blackhole for audio sharing
+- [Installing ARM64 OBS Studio on M1 Apple Silicone Natively](https://www.youtube.com/watch?v=Z1XX7I4ygqk)
+    - This is surprising to me: OBS is still running on Rosetta after a year and a half.
+    - I'm assuming Streamlabs and Twitch Studio are also running Rosetta?
+
+---
+
 ## June 12, 2022
 ### Mac Mini Setup for Streaming
 **Streaming software**
