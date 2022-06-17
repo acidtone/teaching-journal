@@ -8,6 +8,14 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## June 17, 2022
+Going to test some Twitch stream settings today.
+- First attempt: copying the settings from [Best OBS Studio Settings for M1 Mac Users](https://www.youtube.com/watch?v=_f8SYE6BbjM)
+    - And... it seemed to work just fine! I even [earned an achievement](https://dashboard.twitch.tv/u/browsertherapy/achievements).
+- I thought my 1920x1200 Dell monitor would be useful for the extra screen real estate but it's just as much a pain as I remember from the last time I setup OBS. It reminds me of why I bought the proper 1080p BenQ monitor. I'll swap those tomorrow.
+
+---
+
 ## June 15, 2022
 Install log:
 1. Firefox
