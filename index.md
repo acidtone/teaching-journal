@@ -8,11 +8,46 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## June 25, 2022
+New Breakdowns:
+- [OBS Studio - Advanced Mic Settings (Noise Removal, Compressor, Noise Gate)](breakdowns/twitch-sound-filters.md) by Gaming Careers
+- [How To Show Chat Messages On Stream](breakdowns/twitch-featured-chat.md) ("Featured Chat") by Gaming Careers
+
+---
+
 ## June 17, 2022
 Going to test some Twitch stream settings today.
 - First attempt: copying the settings from [Best OBS Studio Settings for M1 Mac Users](https://www.youtube.com/watch?v=_f8SYE6BbjM)
     - And... it seemed to work just fine! I even [earned an achievement](https://dashboard.twitch.tv/u/browsertherapy/achievements).
 - I thought my 1920x1200 Dell monitor would be useful for the extra screen real estate but it's just as much a pain as I remember from the last time I setup OBS. It reminds me of why I bought the proper 1080p BenQ monitor. I'll swap those tomorrow.
+
+### Installation/configuration Guides
+**User Story**: As new Mac buyer and JAM Stack coder, I want a quick reference for the software I'll need to install as a developer because I've totally forgotten what I did the last time I bought a computer.
+
+Convergent guides for:
+- installation
+    - is it already installed?
+- configuration 
+    - what's the bare minimum I need to do to not embarrass myself later?
+    - what are some of the options I need for my current situation?
+- quality of life
+    - I'm starting to feel the grind and it's getting in the way of coding. Got any tips?
+
+**The things**:
+1. Double-click and forget
+    - Zoom
+    - Discord
+    - Firefox
+    - Chrome
+    - Dev browsers
+        - Postman
+        - FF Dev
+        - Chrome
+    - VS Code
+    - Git?
+2. homebrew and nvm
+3. iTerm with Oh My Zsh!
+4. VS Code config
 
 ---
 
