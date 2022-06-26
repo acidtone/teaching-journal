@@ -8,6 +8,31 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## June 26, 2022
+Breakdown: [Upgrade Your Stream Deck: 9 Advanced Tips For Streamers](https://www.youtube.com/watch?v=HA7tA4lRBpE) by Gaming Careers
+- Launching and Arranging Applications
+    - [Windows Mover](https://apps.elgato.com/plugins/com.barraider.windowsmover) isn't available on Mac :(
+- Audio Routing
+    - [Audio Switcher](https://apps.elgato.com/plugins/com.fredemmott.audiooutputswitch) available for Mac!
+    - [Sound Deck](https://apps.elgato.com/plugins/com.geekyeggo.sounddeck) isn't available on Mac :(
+- Testing Stream Connection
+    - [Speed Test](https://apps.elgato.com/plugins/com.barraider.speedtest) isn't available on Mac :(
+- Timers and Counters
+    - [Stream Countdown Timer](https://apps.elgato.com/plugins/com.barraider.streamcountdowntimer) isn't available on Mac :(
+    - [Stream Counter](https://apps.elgato.com/plugins/com.barraider.streamcounter) isn't available on Mac :(
+- Flashback Recording
+    - "Flashback Recording" Plugin doesn't seem to exist?
+- Raids
+    - "Live Streamers" Plugin doesn't seem to exist?
+- Camera
+    - [Cam Control](https://apps.elgato.com/plugins/com.barraider.webcam) isn't available on Mac :(
+- Extra Keys
+    - Stream Deck has an option to couple a button to a hotkey.
+- Multi Actions
+    - Stream Deck allows you to couple multi-actions to a single button press.
+
+---
+
 ## June 25, 2022
 New Breakdowns:
 - [OBS Studio - Advanced Mic Settings (Noise Removal, Compressor, Noise Gate)](breakdowns/twitch-sound-filters.md) by Gaming Careers
