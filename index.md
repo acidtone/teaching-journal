@@ -8,6 +8,33 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## July 4, 2022
+- [How I Would Learn To Code (If I Could Start Over)](https://www.youtube.com/watch?v=k9WqpQp8VSU)
+    - Chapter markers provided(ish)
+    - This guy's is great! 
+        - TODO: Explore his other videos 
+    - His list is a great breakdown of the high-level learning outcomes that any curriculum should have.
+    - Breakdown:
+        1. Mindset
+            1. Adopt a coding mindset.
+                - How can [some problem] be solved with code?
+                - Learn humility.
+            2. Learn how to problem solve.
+                > "Coding is just a tool for problem solving. The hard part is problem solving."
+        2. Coding
+            1. Learn one language deeply.
+            2. Learn scripting.
+                - bash/python/node/etc.
+            3. Create a personal project.
+                - Partictpate in a hackathon.
+            4. Practice for interviews.
+        3. Developer environment
+            1. Learn the terminal.
+            2. Learn your way around an editor.
+            3. Learn Git and become familiar with version control.
+
+---
+
 ## June 26, 2022
 Breakdown: [Upgrade Your Stream Deck: 9 Advanced Tips For Streamers](https://www.youtube.com/watch?v=HA7tA4lRBpE) by Gaming Careers
 - Launching and Arranging Applications
