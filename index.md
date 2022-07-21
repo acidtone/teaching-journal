@@ -8,6 +8,26 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## July 19, 2022
+Some thoughts about Fall semester with two schools. One has traditional assessments and the other definitely not. But what are the common Learning Outcomes?
+
+### As a barely junior developer, I want to be able to...
+1. Follow instructions, so that I can:
+    - Install third party libraries, packages and frameworks by following the developer documentation.
+    - Incentivise my employer(s) to write more/better devops guides.
+2. Effectively perform online searches, so that I can:
+    - Solve my problem before asking for help.
+    - Find alternatives to proposed tools.
+3. To know when to ask for help, so that I can:
+    - Not get trolled in an online help forum.
+        - (Be respectful of other people's time.)
+    - Show proof of work and receive feedback/street cred.
+    - Accurately assess my own learning progress.
+    - Finally crush this nemesis bug!
+    - Just move on to the next problem (after a break).
+
+---
+
 ## July 4, 2022
 - [How I Would Learn To Code (If I Could Start Over)](https://www.youtube.com/watch?v=k9WqpQp8VSU)
     - Chapter markers provided(ish)
