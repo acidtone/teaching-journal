@@ -25,16 +25,40 @@ It doesn't look like there's a lot of content out there for teachers? Maybe zoom
 **Search phrase**: "the best way to teach programming"
 **Top result**:
 [Ten quick tips for teaching programming](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)
-1. Remember that there is no geek gene.
-2. Use peer instruction.
-3. Use live coding.
-4. Have students make predictions.
-5. Use pair programming.
-6. Use worked examples with labelled subgoals.
-7. Stick to one language.
-8. Use authentic tasks.
-9. Remember that novices are not experts
-10. Don't just code
+1. **Remember that there is no geek gene.**<br>
+    Competence at programming is not innate but is rather a learned skill that can be acquired and improved with practice.
+2. **Use peer instruction.**<br>
+    In simplified form, peer instruction proceeds in several phases:
+    1. The instructor gives learners a brief introduction to the topic
+    2. The instructor then gives learners a multiple choice question that probes for misconceptions rather than simple factual recall. The ideal questions are those for which 40%–60% of students are likely to get the right answer the first time.
+    3. Learners then vote on the answer to the question individually, thus formalising their initial prediction.
+    4. Next, learners are given several minutes to discuss those answers with one another in small groups (typically 2–4 students), and they then reconvene and vote again.
+    5. Then, the instructor can act on the latest answers. If all the learners have the right answer, the instructor can move on. If some of the wrong answers remain popular after group discussion, the instructor can address those specific misconceptions directly or engage in class-wide discussion.
+3. **Use live coding.**<br>
+    Rather than using slides, instructors should create programs in front of their learners.
+    - Don't go too slowly;
+    - Start with a partial skeleton that includes the boilerplate (preferred) or having it on hand to copy and paste when needed;
+    - Instructors may give students starter code that relies solely on concepts they have already mastered and then extend it or modify it with live coding;
+    - Ensure that learners have reference material available after lectures, such as a textbook, but recognize that students of all ages increasingly turn to question and answer sites such as Stack Overflow for information.
+4. **Have students make predictions.**<br>
+    The key to making demonstrations more effective is to make learners predict the outcome of the demonstration before performing it.
+    - Crucially, their prediction should be in some way recorded or public, e.g., by a show of hands, by holding up cue cards marked with A, B, C, or D, or by talking to their neighbour;
+    - Instructors should be careful not to punish or criticise students who predicted wrongly but rather to use those incorrect predictions as a spur to further exploration and explanation.
+5. **Use pair programming.**
+    - One person (called the driver) does the typing, while the other (called the navigator) offers comments and suggestions. 
+    - The two switch roles several times per hour.
+    - It's important to put everyone in pairs, not just the learners who may be struggling, so that no one feels singled out.
+6. **Use worked examples with labelled subgoals.**<br>
+    Students perform better when worked examples are broken down into steps (or subgoals) that are given names (or labels):
+    ![Screencap of a subgoal labelling example](assets/images/journal/subgoal-labelling.png)
+7. **Stick to one language.**<br>
+    Courses should stick to one language until learners have progressed far enough with it to be able to distinguish the forest from the trees.
+8. **Use authentic tasks.**<br>
+    Learners find authentic tasks more engaging than abstracted examples. A classic question in computing (and mathematics) education is whether problems are better with context (e.g., find the highest student grade) or without (e.g., find the maximum of a list of numbers). Bouvier et al. examined this with a multiuniversity study and found no difference between the two. They suggest that since it makes no difference, other considerations (such as motivation) should be given priority.
+9. **Remember that novices are not experts**<br>
+    Novices may need to spend time thinking about an algorithm on paper (something expert programmers rarely need, as they have usually memorized most common algorithmic patterns). They may need to construct examples in guided steps. They may struggle to debug. Debugging usually involves contrasting what is happening to what should be happening, but a novice's grasp on what should be happening is usually fragile.
+10. **Don't just code.**<br>
+    A growing number of educators are including Parsons Problems in their pedagogic repertoire. Rather than writing programs from scratch, learners are given the lines of code they need to solve a problem, but in jumbled order. Reordering them to solve the problem correctly allows them to concentrate on mastering control flow without having to devote mental energy to recalling syntax or the specifics of library functions.
 
 Probably the best "paper" I've found on how to teach code.
 
