@@ -8,6 +8,38 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## September 29, 2022
+I noticed some interesting search results while researching some ideas for having students build a game on the command line:
+
+**Search phrase**: "best way to teach js"
+**Top result**:
+[The 5 Best Ways to Learn JavaScript Fast in 2022 (For Beginners)](https://techbootcamps.utexas.edu/blog/best-ways-to-learn-javascript/)
+1. Self-Guided Websites and Courses.
+2. Books.
+3. Coding Boot Camps.
+4. Meetups and Networking Events.
+5. Starting Your Own Projects.
+
+It doesn't look like there's a lot of content out there for teachers? Maybe zooming out will lead to better results? Spoiler alert: the answer is a definite yes!
+
+**Search phrase**: "the best way to teach programming"
+**Top result**:
+[Ten quick tips for teaching programming](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)
+1. Remember that there is no geek gene.
+2. Use peer instruction.
+3. Use live coding.
+4. Have students make predictions.
+5. Use pair programming.
+6. Use worked examples with labelled subgoals.
+7. Stick to one language.
+8. Use authentic tasks.
+9. Remember that novices are not experts
+10. Don't just code
+
+Probably the best "paper" I've found on how to teach code.
+
+---
+
 ## July 19, 2022
 Some thoughts about Fall semester with two schools. One has traditional assessments and the other definitely not. But what are the common Learning Outcomes?
 
