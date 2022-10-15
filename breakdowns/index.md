@@ -26,3 +26,7 @@ Summaries of great articles and videos on education
 ## Gamification
 - TODO: [Gamifying Education - How to Make Your Classroom Truly Engaging](https://www.youtube.com/watch?v=MuDLw1zIc94)
 - TODO: [Gamification in the Classroom](https://www.youtube.com/watch?v=W72DnmSZbr4) by Teachings in Education
+
+## Live Streaming
+- [OBS Studio - Advanced Mic Settings (Noise Removal, Compressor, Noise Gate)](twitch-sound-filters.md) by Gaming Careers
+- [How To Show Chat Messages On Stream](twitch-featured-chat.md) ("Featured Chat") by Gaming Careers

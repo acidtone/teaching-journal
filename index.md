@@ -8,6 +8,325 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## September 29, 2022
+I noticed some interesting search results while researching some ideas for having students build a game on the command line:
+
+**Search phrase**: "best way to teach js"
+**Top result**:
+[The 5 Best Ways to Learn JavaScript Fast in 2022 (For Beginners)](https://techbootcamps.utexas.edu/blog/best-ways-to-learn-javascript/)
+1. Self-Guided Websites and Courses.
+2. Books.
+3. Coding Boot Camps.
+4. Meetups and Networking Events.
+5. Starting Your Own Projects.
+
+It doesn't look like there's a lot of content out there for teachers? Maybe zooming out will lead to better results? Spoiler alert: the answer is a definite yes!
+
+**Search phrase**: "the best way to teach programming"
+**Top result**:
+[Ten quick tips for teaching programming](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)
+1. **Remember that there is no geek gene.**<br>
+    Competence at programming is not innate but is rather a learned skill that can be acquired and improved with practice.
+2. **Use peer instruction.**<br>
+    In simplified form, peer instruction proceeds in several phases:
+    1. The instructor gives learners a brief introduction to the topic
+    2. The instructor then gives learners a multiple choice question that probes for misconceptions rather than simple factual recall. The ideal questions are those for which 40%–60% of students are likely to get the right answer the first time.
+    3. Learners then vote on the answer to the question individually, thus formalising their initial prediction.
+    4. Next, learners are given several minutes to discuss those answers with one another in small groups (typically 2–4 students), and they then reconvene and vote again.
+    5. Then, the instructor can act on the latest answers. If all the learners have the right answer, the instructor can move on. If some of the wrong answers remain popular after group discussion, the instructor can address those specific misconceptions directly or engage in class-wide discussion.
+3. **Use live coding.**<br>
+    Rather than using slides, instructors should create programs in front of their learners.
+    - Don't go too slowly;
+    - Start with a partial skeleton that includes the boilerplate (preferred) or having it on hand to copy and paste when needed;
+    - Instructors may give students starter code that relies solely on concepts they have already mastered and then extend it or modify it with live coding;
+    - Ensure that learners have reference material available after lectures, such as a textbook, but recognize that students of all ages increasingly turn to question and answer sites such as Stack Overflow for information.
+4. **Have students make predictions.**<br>
+    The key to making demonstrations more effective is to make learners predict the outcome of the demonstration before performing it.
+    - Crucially, their prediction should be in some way recorded or public, e.g., by a show of hands, by holding up cue cards marked with A, B, C, or D, or by talking to their neighbour;
+    - Instructors should be careful not to punish or criticise students who predicted wrongly but rather to use those incorrect predictions as a spur to further exploration and explanation.
+5. **Use pair programming.**
+    - One person (called the driver) does the typing, while the other (called the navigator) offers comments and suggestions. 
+    - The two switch roles several times per hour.
+    - It's important to put everyone in pairs, not just the learners who may be struggling, so that no one feels singled out.
+6. **Use worked examples with labelled subgoals.**<br>
+    Students perform better when worked examples are broken down into steps (or subgoals) that are given names (or labels):
+    ![Screencap of a subgoal labelling example](assets/images/journal/subgoal-labelling.png)
+7. **Stick to one language.**<br>
+    Courses should stick to one language until learners have progressed far enough with it to be able to distinguish the forest from the trees.
+8. **Use authentic tasks.**<br>
+    Learners find authentic tasks more engaging than abstracted examples. A classic question in computing (and mathematics) education is whether problems are better with context (e.g., find the highest student grade) or without (e.g., find the maximum of a list of numbers). Bouvier et al. examined this with a multiuniversity study and found no difference between the two. They suggest that since it makes no difference, other considerations (such as motivation) should be given priority.
+9. **Remember that novices are not experts**<br>
+    Novices may need to spend time thinking about an algorithm on paper (something expert programmers rarely need, as they have usually memorized most common algorithmic patterns). They may need to construct examples in guided steps. They may struggle to debug. Debugging usually involves contrasting what is happening to what should be happening, but a novice's grasp on what should be happening is usually fragile.
+10. **Don't just code.**<br>
+    A growing number of educators are including Parsons Problems in their pedagogic repertoire. Rather than writing programs from scratch, learners are given the lines of code they need to solve a problem, but in jumbled order. Reordering them to solve the problem correctly allows them to concentrate on mastering control flow without having to devote mental energy to recalling syntax or the specifics of library functions.
+
+Probably the best "paper" I've found on how to teach code.
+
+---
+
+## July 19, 2022
+Some thoughts about Fall semester with two schools. One has traditional assessments and the other definitely not. But what are the common Learning Outcomes?
+
+### As a barely junior developer, I want to be able to...
+1. Follow instructions, so that I can:
+    - Install third party libraries, packages and frameworks by following the developer documentation.
+    - Incentivise my employer(s) to write more/better devops guides.
+2. Effectively perform online searches, so that I can:
+    - Solve my problem before asking for help.
+    - Find alternatives to proposed tools.
+3. To know when to ask for help, so that I can:
+    - Not get trolled in an online help forum.
+        - (Be respectful of other people's time.)
+    - Show proof of work and receive feedback/street cred.
+    - Accurately assess my own learning progress.
+    - Finally crush this nemesis bug!
+    - Just move on to the next problem (after a break).
+
+---
+
+## July 4, 2022
+- [How I Would Learn To Code (If I Could Start Over)](https://www.youtube.com/watch?v=k9WqpQp8VSU)
+    - Chapter markers provided(ish)
+    - This guy's is great! 
+        - TODO: Explore his other videos 
+    - His list is a great breakdown of the high-level learning outcomes that any curriculum should have.
+    - Breakdown:
+        1. Mindset
+            1. Adopt a coding mindset.
+                - How can [some problem] be solved with code?
+                - Learn humility.
+            2. Learn how to problem solve.
+                > "Coding is just a tool for problem solving. The hard part is problem solving."
+        2. Coding
+            1. Learn one language deeply.
+            2. Learn scripting.
+                - bash/python/node/etc.
+            3. Create a personal project.
+                - Partictpate in a hackathon.
+            4. Practice for interviews.
+        3. Developer environment
+            1. Learn the terminal.
+            2. Learn your way around an editor.
+            3. Learn Git and become familiar with version control.
+
+---
+
+## June 26, 2022
+Breakdown: [Upgrade Your Stream Deck: 9 Advanced Tips For Streamers](https://www.youtube.com/watch?v=HA7tA4lRBpE) by Gaming Careers
+- Launching and Arranging Applications
+    - [Windows Mover](https://apps.elgato.com/plugins/com.barraider.windowsmover) isn't available on Mac :(
+- Audio Routing
+    - [Audio Switcher](https://apps.elgato.com/plugins/com.fredemmott.audiooutputswitch) available for Mac!
+    - [Sound Deck](https://apps.elgato.com/plugins/com.geekyeggo.sounddeck) isn't available on Mac :(
+- Testing Stream Connection
+    - [Speed Test](https://apps.elgato.com/plugins/com.barraider.speedtest) isn't available on Mac :(
+- Timers and Counters
+    - [Stream Countdown Timer](https://apps.elgato.com/plugins/com.barraider.streamcountdowntimer) isn't available on Mac :(
+    - [Stream Counter](https://apps.elgato.com/plugins/com.barraider.streamcounter) isn't available on Mac :(
+- Flashback Recording
+    - "Flashback Recording" Plugin doesn't seem to exist?
+- Raids
+    - "Live Streamers" Plugin doesn't seem to exist?
+- Camera
+    - [Cam Control](https://apps.elgato.com/plugins/com.barraider.webcam) isn't available on Mac :(
+- Extra Keys
+    - Stream Deck has an option to couple a button to a hotkey.
+- Multi Actions
+    - Stream Deck allows you to couple multi-actions to a single button press.
+
+---
+
+## June 25, 2022
+New Breakdowns:
+- [OBS Studio - Advanced Mic Settings (Noise Removal, Compressor, Noise Gate)](breakdowns/twitch-sound-filters.md) by Gaming Careers
+- [How To Show Chat Messages On Stream](breakdowns/twitch-featured-chat.md) ("Featured Chat") by Gaming Careers
+
+---
+
+## June 17, 2022
+Going to test some Twitch stream settings today.
+- First attempt: copying the settings from [Best OBS Studio Settings for M1 Mac Users](https://www.youtube.com/watch?v=_f8SYE6BbjM)
+    - And... it seemed to work just fine! I even [earned an achievement](https://dashboard.twitch.tv/u/browsertherapy/achievements).
+- I thought my 1920x1200 Dell monitor would be useful for the extra screen real estate but it's just as much a pain as I remember from the last time I setup OBS. It reminds me of why I bought the proper 1080p BenQ monitor. I'll swap those tomorrow.
+
+### Installation/configuration Guides
+**User Story**: As new Mac buyer and JAM Stack coder, I want a quick reference for the software I'll need to install as a developer because I've totally forgotten what I did the last time I bought a computer.
+
+Convergent guides for:
+- installation
+    - is it already installed?
+- configuration 
+    - what's the bare minimum I need to do to not embarrass myself later?
+    - what are some of the options I need for my current situation?
+- quality of life
+    - I'm starting to feel the grind and it's getting in the way of coding. Got any tips?
+
+**The things**:
+1. Double-click and forget
+    - Zoom
+    - Discord
+    - Firefox
+    - Chrome
+    - Dev browsers
+        - Postman
+        - FF Dev
+        - Chrome
+    - VS Code
+    - Git?
+2. homebrew and nvm
+3. iTerm with Oh My Zsh!
+4. VS Code config
+
+---
+
+## June 15, 2022
+Install log:
+1. Firefox
+    - Lastpass extension
+2. Zoom
+3. Focusrite Control (Scarlett 2i2)
+4. LogiTune (Brio camera)
+    - Might not be the best option? Alternative could be G Hub.
+    - Tried G Hub but it doesn't offer any more settings.
+5. Stream Deck software
+6. Wacom Desktop Center
+
+**Question**: Is the current version of OBS (27.2.4) still running in Rosetta?
+- According to [this video](https://www.youtube.com/watch?v=Z1XX7I4ygqk) you can tell the difference between ARM64 and Intel using the Activity Monitor
+- OBS (27.2.4)
+    - **Does NOT** run natively on ARM64. There's an experimental ARM64 build based on 27.2.0.
+    - it doesn't look like the Stream Deck OBS plugin will work with the ARM64 build.
+- Streamlabs (1.9.1): 
+    - **Does NOT** run natively on ARM64. No sign of future support so far.
+- Twitch Studio (0.108.12):
+    - **DOES** run natively on ARM64! It's still in beta and I have no idea how it compares. 
+- Side note: The InceptionU network does 475Mbps up and down!
+
+---
+
+## June 14, 2022
+### M1 Mac Mini Setup!
+Physical setup and peripherals:
+- Dell display: 1920 x 1200
+- BenQ display: 1440 x 2560 (portrait)
+- Logitech Brio webcam
+- Elgato Stream Deck
+- Focusrite Scarlett 2i2
+- Wacom Intuos tablet (7.9" x 6.3")
+
+### Streaming Research
+Some questions that need to be answered for the Twitch Stream
+- [OBS](https://obsproject.com/) or [Streamlabs](https://streamlabs.com/)? [Twitch Studio](https://www.twitch.tv/broadcast/studio)?
+    - What settings?
+    - How to properly set up Profiles and Scene Collections
+- [Loopback](https://rogueamoeba.com/loopback/) or [SWB Audio App](https://shinywhitebox.com/swb-audio-app)?
+
+**Findings**
+- [Profiles & Scene Collections](https://www.youtube.com/watch?v=LIFaXZkk_-Q) (6:24) by EposVox
+    - Great summary of the two features.
+    - Seems like good content: [his OBS Masterclass Playlist](https://www.youtube.com/playlist?list=PLzo7l8HTJNK-IKzM_zDicTd2u20Ab2pAl)
+- [How to Stream on Twitch OBS Studio Tutorial on M1 Max Macbook](https://www.youtube.com/watch?v=PMT2WEL5-gw) (10:36) by Blendlogic Tech
+    - Pretty concise
+    - His goals are to stream and record 1080p @ 60fps
+    - Uses Blackhole for audio sharing
+- [Installing ARM64 OBS Studio on M1 Apple Silicone Natively](https://www.youtube.com/watch?v=Z1XX7I4ygqk)
+    - This is surprising to me: OBS is still running on Rosetta after a year and a half.
+    - I'm assuming Streamlabs and Twitch Studio are also running Rosetta?
+
+---
+
+## June 12, 2022
+### Mac Mini Setup for Streaming
+**Streaming software**
+- [OBS](https://obsproject.com/) or [Streamlabs](https://streamlabs.com/)?
+- [Loopback](https://rogueamoeba.com/loopback/) or [SWB Audio App](https://shinywhitebox.com/swb-audio-app)?
+- [Zoom](https://zoom.us/)
+
+**Coding Software**
+- VS Code
+    - Live Server
+    - GistPad
+    - Open in Default Browser
+    - GitLens
+    - Code Spell Checker
+- iTerm
+- Oh My ZSH!
+- Homebrew
+- nvm
+- Git
+- Browsers
+    - Firefox
+    - Chrome
+- Postman
+
+**Messaging**
+- Slack
+- Discord
+- Teams
+
+**Quality of Life**
+- Rectangle
+- Lastpass
+    - Firefox Extension
+    - Chrome Extension
+
+---
+
+## May 8, 2022
+**Assumption**: A beginner will need a more convergent learning path until they can use their imagination.
+
+**Theory**: Providing a list of recommended starter projects will aid in learning.
+
+**Questions**:
+- How do we measure project effectiveness in learning?
+- Are projects the best format for early learning?
+- Does this apply equally to children vs ya vs adults?
+- How small should the projects be?
+- When do you introduce fat arrow? Function statements or expressions?
+    - Refactoring exercises: 
+        - Finished code is given with `function` expressions. Goal: refactor using arrows.
+
+## Goal
+Create sample projects geared toward board games. Projects that:
+- can highlight a core learning topic
+    - dice 
+        - `number`
+        - `array`
+        - `Math` object
+- is visual and can naturally introduce design elements
+    - dice
+        - html entities
+        - font icons
+        - svg
+        - animation
+- could make sense as a component in a larger project
+    - dice roller: digital dice tower
+        - separation of concerns
+
+## Project examples
+- dice 
+    - roller
+    - builder
+    - games/components/apps
+        - iphone substitute if you forgot your dice
+        - 
+- deck
+    - shuffler
+    - builder
+    - games/components/apps
+        - memory game
+        - war
+        - discards
+        - a card you stick on your head, game
+- counter
+    - health
+    - inventory
+    - wallet
+- backpack
+    - items!
+
+---
+
 ## April 6, 2022
 Lean Canvas Ideas
 - Potential customer segments
@@ -29,9 +348,47 @@ Lean Canvas Ideas
 
 ---
 
+## April 23, 2022
+Research: Game design/development as a tool for teaching programming.
+- Most of the "[game development javascript](https://www.google.com/search?q=game+development+javascript)" results for articles and videos are unsatisfying. They are either:
+    - are too advanced for JS beginners (game engines/frameworks)
+    - focus on video game-like experiences and jump straight to `canvas` (would like to start with node/cli game to start)
+    - don't talk about the fundamental mechanics and theory behind games.
+- Refining my searches to "game mechanics" helped but results were still more advanced. 
+- "[solo game mechanics](https://www.google.com/search?q=solo+game+mechanics)" produced the most promising results thus far:
+    - [10 BEST Solo Board Game MECHANICS in 2021](https://www.youtube.com/watch?v=S5VdJtj151g) (from least to best)
+        - Dice rolling
+        - Flowcharts or procedural AI
+        - Dummy Opponents (automa); playing for points
+        - Tile/Worker placement
+        - Card drafting
+        - Event deck (action queue)
+        - Grid movement
+        - Puzzle solving and hand management
+        - Deck, bag and pool building
+        - The narrative
+    - [The mistake every new game developer makes](https://www.youtube.com/watch?v=ZMbIvmv25u0)
+        - tdlr; start with a prototype to:
+            - test your game ideas
+            - generate new ideas
+        - He used Unity to create quick and buggy prototypes to test variations on a side scroller with a magnetic game character.
+
+
+---
+
+## Feb 20, 2022
+Goal: Research - Syntax highlighting for specific lines in blog posts, lesson plans and slides.
+- PrismJS has a [line highlighting](https://prismjs.com/plugins/line-highlight/) plugin.
+    - This probably wouldn't work with the Content module when using markdown. Probably wouldn't without some way to add data-attrs. Remark doesn't seem to want to work so maybe adding `pre` and `code` manually to the md would work?
+- RevealJS apparently has the ability to [highlight lines](https://revealjs.com/code/#line-numbers-%26-highlights) within a block and also [step-thru highlights](https://revealjs.com/code/#step-by-step-highlights).
+    - Again, not sure how this would work with the markdown plugin. Probs just add the `pre` and `code` blocks manually. Ugh. 
+
+---
+
 ## Feb 6, 2022
 - Wrote break down of [Goals, Objectives, and Learning Outcomes](goals-objectives-learning-outomes.md)
 
+---
 
 ## Feb 5, 2022
 Goal: Build a list of Achievement rubrics based on the Outcomes, not the requirements of the assessment.
