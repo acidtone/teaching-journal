@@ -8,6 +8,27 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## April 6, 2022
+Lean Canvas Ideas
+- Potential customer segments
+    1. Students
+        - Professionals upgrading their skills
+        - Service industry looking for a new covid-safe career
+        - Entrepreneurs wanting to build their own app
+    2. Teachers
+        - Coder who wants a backup career
+        - Old-school teachers who want to learn new tech
+    3. Potential employers
+        - Companies looking for cheap devs
+- Problems: Professionals upgrading their skills
+    1. Pre-bootcamp: It takes $10,000+ to find out if you even like coding
+    2. Post-bootcamp: Hard to stick with the coding habit
+    3. During-bootcamp: Difficult to find relevant tutorials
+- Solution: pre-bootcamp
+- Moving to Milanote
+
+---
+
 ## Feb 6, 2022
 - Wrote break down of [Goals, Objectives, and Learning Outcomes](goals-objectives-learning-outomes.md)
 
