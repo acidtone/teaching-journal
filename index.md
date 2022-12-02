@@ -8,6 +8,14 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## December 2, 2022
+**Full stack documentation**
+- [JSNation 2022 with Rich Harris](https://www.youtube.com/watch?v=RwBolXX9Pis)
+
+    ![Full Stack Documentation as a Battenberg cake](assets/images/journal/full-stack-documentation.png)
+
+---
+
 ## September 29, 2022
 I noticed some interesting search results while researching some ideas for having students build a game on the command line:
 
