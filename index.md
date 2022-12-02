@@ -14,6 +14,8 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
     ![Full Stack Documentation as a Battenberg cake](assets/images/journal/full-stack-documentation.png)
 
+    - [learn.svelte.dev](https://learn.svelte.dev/): an interactive browser-based learning platform for Svelte.
+
 ---
 
 ## September 29, 2022
