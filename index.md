@@ -8,6 +8,18 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## December 10 , 2022
+### Theo - ping.gg
+- Top-shelf dev advice
+- High-end topics
+- Uses [Excalidraw](https://excalidraw.com/) as a drawing tool. Seems cool!
+- **Great Breakdown of databases**
+    - [Did I pick the right database?](https://www.youtube.com/watch?v=cC6HFd1zcbo)
+- **Tailwind as a Design System**
+    - [I Was Wrong About Tailwind...](https://www.youtube.com/watch?v=ZuLn42merAg)
+
+---
+
 ## December 2, 2022
 **Full stack documentation**
 - [JSNation 2022 with Rich Harris](https://www.youtube.com/watch?v=RwBolXX9Pis)
