@@ -8,6 +8,12 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## January 12, 2022
+### Exit Tickets!
+- Breakdown: [Use exit tickets in your lessons - Everything you need to know](breakdowns/exit-tickets)
+
+---
+
 ## December 10 , 2022
 ### Theo - ping.gg
 - Top-shelf dev advice
