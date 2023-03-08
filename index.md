@@ -8,7 +8,16 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
-## January 12, 2022
+## March 7, 2023
+### Teaching Loops
+Teaching loops is very difficult. I found this article by a 40+ year old junior insightful:
+- [JavaScript The Early Lessons: For Vs forEach Vs For Of. Loops & Iteration, Which One Is Better?](https://medium.com/@trig79/javascript-the-early-lessons-for-vs-foreach-vs-for-of-loops-iteration-which-one-is-better-b557f385045)
+
+He has almost convinced me to teach `for...of` instead of `forEach`. Almost. 
+
+---
+
+## January 12, 2023
 ### Exit Tickets!
 - Breakdown: [Use exit tickets in your lessons - Everything you need to know](breakdowns/exit-tickets)
 
