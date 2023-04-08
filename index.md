@@ -8,6 +8,12 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## April 7th, 2023
+Great reference from Rashid! He says this site was a game changer for learning the basics.
+- [Mimo.org](https://mimo.org/)
+
+---
+
 ## March 7, 2023
 ### Teaching Loops
 Teaching loops is very difficult. I found this article by a 40+ year old junior insightful:
