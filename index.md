@@ -39,7 +39,8 @@ Possible to use Svelte transitions to handle differences in DOM-manipulation tri
 
 ### Further nerding
 - [SvelteKit Page Transitions](https://joyofcode.xyz/sveltekit-page-transitions)
-
+- An existing [slide presentation project](https://www.reddit.com/r/sveltejs/comments/sv2g2j/svelteslides_a_tool_to_generate_presentations/) from the beta days
+    - Uses [Vizzu](https://vizzuhq.com/) for dat visualizations. Noice.
 ---
 
 
