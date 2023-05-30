@@ -42,6 +42,7 @@ Possible to use Svelte transitions to handle differences in DOM-manipulation tri
 - An existing [slide presentation project](https://www.reddit.com/r/sveltejs/comments/sv2g2j/svelteslides_a_tool_to_generate_presentations/) from the beta days
     - Uses [Vizzu](https://vizzuhq.com/) for dat visualizations. Noice.
 - Rich Harris demo of new [View Transition API implementation](https://www.youtube.com/watch?v=MJHO6FSioPI&t=1333s)
+    - [Relevant SK pull request](https://github.com/sveltejs/kit/pull/9605)
 
 ---
 
