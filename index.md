@@ -8,6 +8,37 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## May 29, 2023
+### New slide format?
+
+![Code on the left, slide on the right](assets/images/journal/split-screen-presentation-theme.png)
+
+_Source_: [How to make code more testable, by factoring out and abstracting side effects](https://www.youtube.com/watch?v=XVZpi7VJ_ws)
+
+**Unicorn**: a markdown blog that is flexible enough for an educator to throw some code in one component and a relative slide url in another. The wrapper component places them side-by-side.
+
+### Slide transitions using Svelte movement?
+Could svelte be used as a replacement for slide transitions in ReavealJS?
+
+**Slide 1**: File access module
+
+![File access module shown](assets/images/journal/slide1-file-access-module.png)
+
+**Slide 2**: Placeholder module
+
+![Placeholder module shown](assets/images/journal/slide2-module-placeholder.png)
+
+**Slide 3**: Trololo module
+
+![Trololo module shown](assets/images/journal/slide3-trololo-module.png)
+
+Possible to use Svelte transitions to handle differences in DOM-manipulation triggered by RevealJS?
+- list item fades
+- diagram (above) swapping
+- entire slide swipes
+
+---
+
 ## April 7th, 2023
 Great reference from Rashid! He says this site was a game changer for learning the basics.
 - [Mimo.org](https://mimo.org/)
