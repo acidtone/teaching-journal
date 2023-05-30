@@ -37,7 +37,11 @@ Possible to use Svelte transitions to handle differences in DOM-manipulation tri
 - diagram (above) swapping
 - entire slide swipes
 
+### Further nerding
+- [SvelteKit Page Transitions](https://joyofcode.xyz/sveltekit-page-transitions)
+
 ---
+
 
 ## April 7th, 2023
 Great reference from Rashid! He says this site was a game changer for learning the basics.
