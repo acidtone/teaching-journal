@@ -27,7 +27,7 @@ The project includes TailwindCSS. Normally, I don't like opinionated dependencie
 - Following the video was a much better idea. This is a great project that gives me everything I need (?) for my [Slides project](https://github.com/orgs/browsertherapy/projects/8)
 - Most exciting is the ability to easily mix and match regular HTML and markdown slides. I can still pound out some quick md-only content and then go back and refactor it into more refined HTML using the fancy Reveal features.
 
-### Next steps/questions:
+**Next steps/questions:**
 1. Create a dynamic `/slides` endpoint(s) for slide content
 2. Figure out how to organize markdown imports vs HTML content
 3. Is there a way to generalize content that can is slide vs article agnostic? For example, can I use the same content for my slides that can also feed a finished blog article?
