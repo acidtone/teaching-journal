@@ -18,7 +18,21 @@ The project includes TailwindCSS. Normally, I don't like opinionated dependencie
 
 **Session Notes**
 - `pnpm` isn't installed on this system. That's embarrassing. It took awhile to decide how to install but went with Brew.
--
+- I stopped mid-session and I'm continuing on a machine that does not have `pnpm` installed. I'll probably continue using it in the future and found this [SO for changing switching versions](https://stackoverflow.com/questions/72132590/how-do-you-switch-between-pnpm-versions) which suggests installing using Node Corepack.
+- Received a 404 error on @fontsource when running this command but it worked with I installed the fonts individually:
+    ```bash
+    pnpm i reveal.js @types/reveal.js @fontsource/manrop @fontsource/jetbrains-mono
+    ```
+- First try at blindly copy/pasting the code in the article created a lot of errors. Namely, `code.svelte` doesn't exist in his examples and there are multiple versions of `presentation.svelte` as the article continues. Going to start over from in initial install and walk through the vide and article side-by-side...
+- Following the video was a much better idea. This is a great project that gives me everything I need (?) for my [Slides project](https://github.com/orgs/browsertherapy/projects/8)
+- Most exciting is the ability to easily mix and match regular HTML and markdown slides. I can still pound out some quick md-only content and then go back and refactor it into more refined HTML using the fancy Reveal features.
+
+### Next steps/questions:
+1. Create a dynamic `/slides` endpoint(s) for slide content
+2. Figure out how to organize markdown imports vs HTML content
+3. Is there a way to generalize content that can is slide vs article agnostic? For example, can I use the same content for my slides that can also feed a finished blog article?
+4. How do I begin porting my existing content to the new system? Can I build a 5-slide series that can be inserted into a larger slide deck? Can one slide series feed multiple slide decks?
+5. What's the best way to build common layout components like side-by-side comparisons (Good/Bad. Before/After, etc)?
 
 ---
 
