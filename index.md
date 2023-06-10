@@ -8,6 +8,20 @@ A dedicated journal for teaching programming and learning teaching fundamentals 
 
 ---
 
+## June 9, 2023
+### [Create Beautiful Presentations With Svelte](https://www.youtube.com/watch?v=67lqa5kTQkA)
+    - [Companion article](https://joyofcode.xyz/beautiful-presentations-with-svelte)
+
+No sample code, but the [companion article](https://joyofcode.xyz/beautiful-presentations-with-svelte) has an excellent breakdown of the project. In fact, I'm not even going to watch the video; hopefully the article is enough?
+
+The project includes TailwindCSS. Normally, I don't like opinionated dependencies in tutorials, but a utility library is probably the best way to quickly style up something in RevealJS.
+
+**Session Notes**
+- `pnpm` isn't installed on this system. That's embarrassing. It took awhile to decide how to install but went with Brew.
+-
+
+---
+
 ## May 29, 2023
 ### New slide format?
 
